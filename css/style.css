@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: whitesmoke;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -15,7 +15,7 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 40%;
   padding-bottom: 40px;
 }
 
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family:'Courier New', Courier, monospace;
+  color:grey;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
